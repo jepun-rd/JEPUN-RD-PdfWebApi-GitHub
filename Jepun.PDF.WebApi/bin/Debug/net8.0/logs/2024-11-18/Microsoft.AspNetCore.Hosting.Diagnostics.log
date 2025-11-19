@@ -1,0 +1,230 @@
+2024-11-18 09:55:15.0632|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 09:55:15.0632|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 09:55:15.0632|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 09:55:15.0632|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 09:55:40.7788|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="723db465-f409-4f5b-b286-230a51991a0a" 265594 
+2024-11-18 09:56:32.0471|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 09:56:32.0471|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 09:56:32.0471|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 09:56:32.0471|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 09:56:50.4640|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="26cf711a-0661-4f14-8b68-9971284c3b46" 265594 
+2024-11-18 09:57:35.4066|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 09:57:35.4066|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 09:57:35.4066|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 09:57:35.4066|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 09:57:50.1086|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="f04d3419-1106-47a2-915b-24f2fa8d5770" 265594 
+2024-11-18 09:58:17.1287|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 09:58:17.1287|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 09:58:17.1287|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 09:58:17.1287|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 09:58:47.2590|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="d26dcc2a-dfdb-48d3-b9f0-57a5004a5770" 265594 
+2024-11-18 09:59:10.3458|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 09:59:10.3458|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 09:59:10.3458|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 09:59:10.3458|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 09:59:48.0655|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="deec9e3c-1abc-43c7-9495-7729ee9737f5" 265594 
+2024-11-18 10:01:07.8678|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 10:01:07.8699|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 10:01:07.8699|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 10:01:07.8699|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 10:01:17.6491|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchTextChunk - multipart/form-data;+boundary="ccc2a786-51e7-4da6-8a54-7e11e0f29fab" 141591 
+2024-11-18 10:01:37.7843|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchTextChunk - 200 - application/json;+charset=utf-8 20144.3121ms 
+2024-11-18 10:16:50.5988|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="1d00ece8-419b-4bab-9cec-cdf09f0c6c0f" 510430 
+2024-11-18 10:17:05.7532|INFO|Request finished HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - 200 - application/json;+charset=utf-8 15154.7071ms 
+2024-11-18 10:17:28.7613|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="608e5f07-dd63-40e6-9d98-9aaf899a25f5" 510430 
+2024-11-18 10:17:56.9448|INFO|Request finished HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - 200 - application/json;+charset=utf-8 28189.7955ms 
+2024-11-18 10:18:34.2491|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="6c8d36b9-e4ad-4115-865b-6115a4d74a5c" 510430 
+2024-11-18 10:19:31.0473|INFO|Request finished HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - 200 - application/json;+charset=utf-8 56800.0560ms 
+2024-11-18 10:20:45.6894|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="abe0cf2b-738b-44ed-8939-8ae8602ee927" 510430 
+2024-11-18 10:27:49.4120|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 10:27:49.4120|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 10:27:49.4120|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 10:27:49.4120|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 10:29:04.8320|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="126e74d2-5ab1-483a-a371-56641fb4f8d8" 879718 
+2024-11-18 10:29:51.2943|INFO|Request finished HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - 200 - application/json;+charset=utf-8 46471.0288ms 
+2024-11-18 10:37:49.6512|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 10:37:49.6512|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 10:37:49.6512|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 10:37:49.6512|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 10:38:01.7047|INFO|Request starting HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - multipart/form-data;+boundary="2feefe75-1671-4ed4-8885-7bd28f64d76c" 879865 
+2024-11-18 10:38:29.3765|INFO|Request finished HTTP/1.1 POST https://localhost:5566/SearchMultiTextAddImgToPdf - 200 - application/json;+charset=utf-8 27679.6931ms 
+2024-11-18 10:39:24.8055|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchMultiTextChunkAddImgToPdf - multipart/form-data;+boundary="bd142137-8da7-4cb2-9b2b-7369e5717cac" 879865 
+2024-11-18 10:39:29.2455|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchMultiTextChunkAddImgToPdf - 200 - application/json;+charset=utf-8 4453.0281ms 
+2024-11-18 10:44:00.7538|INFO|Request starting HTTP/1.1 POST https://localhost:5566/getText - multipart/form-data;+boundary="39579b9e-d7da-4e49-81a3-3997ae818ed0" 141433 
+2024-11-18 10:44:00.8219|INFO|Request finished HTTP/1.1 POST https://localhost:5566/getText - 200 - application/json;+charset=utf-8 73.0297ms 
+2024-11-18 10:45:49.9536|INFO|Request starting HTTP/1.1 POST https://localhost:5566/getTextLine - multipart/form-data;+boundary="b0ca67be-ef8e-4f98-bca9-cb9cca96b95d" 141433 
+2024-11-18 10:45:49.9863|INFO|Request finished HTTP/1.1 POST https://localhost:5566/getTextLine - 200 - application/json;+charset=utf-8 36.4487ms 
+2024-11-18 10:48:31.6706|INFO|Request starting HTTP/1.1 POST https://localhost:5566/getTextChunk - multipart/form-data;+boundary="79145529-9bb3-48bf-bb12-27e41ae196fa" 141433 
+2024-11-18 10:48:31.6965|INFO|Request finished HTTP/1.1 POST https://localhost:5566/getTextChunk - 200 - application/json;+charset=utf-8 27.9310ms 
+2024-11-18 10:54:13.7405|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchTextChunk - multipart/form-data;+boundary="ce0cdb4e-b81d-4879-bfa4-5b9e1c13bf75" 141567 
+2024-11-18 10:54:19.6386|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchTextChunk - 200 - application/json;+charset=utf-8 5902.8257ms 
+2024-11-18 10:54:21.7943|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchText - multipart/form-data;+boundary="7257ec3e-b6e5-4f59-b351-667a467cbdfb" 141567 
+2024-11-18 10:54:21.8332|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchText - 200 - application/json;+charset=utf-8 42.9139ms 
+2024-11-18 11:01:47.5041|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 11:01:47.5041|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 11:01:47.5041|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 11:01:47.5041|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 11:01:57.1401|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addCustomProperty - multipart/form-data;+boundary="265b2ba1-231e-48ff-b723-a525999d7246" 141615 
+2024-11-18 11:01:57.4616|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addCustomProperty - 200 - application/octet-stream 331.6133ms 
+2024-11-18 11:02:25.7265|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addCustomProperty - multipart/form-data;+boundary="7f76a2c3-31c0-4917-8075-e2c40107fffc" 141615 
+2024-11-18 11:02:25.7369|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addCustomProperty - 200 - application/octet-stream 26.0871ms 
+2024-11-18 14:50:25.6775|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 14:50:25.6775|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 14:50:25.6775|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 14:50:25.6775|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 14:50:48.9480|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="180ad581-1dd7-4ea5-a40c-e1ce0f2d1d25" 142503 
+2024-11-18 14:50:53.1546|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 4217.2196ms 
+2024-11-18 14:50:53.1546|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="fcf0356c-1ad3-4afd-97c2-4ae98ec8ef79" 164831 
+2024-11-18 14:50:55.4747|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 2315.3546ms 
+2024-11-18 15:02:52.6497|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:02:52.6497|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:02:52.6497|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:02:52.6497|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:03:06.6742|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="1cea8684-e57d-4149-9d7d-ffdd1428e6df" 142503 
+2024-11-18 15:04:44.9890|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 98326.8866ms 
+2024-11-18 15:04:46.6476|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="1cea8684-e57d-4149-9d7d-ffdd1428e6df" 142503 
+2024-11-18 15:04:50.4146|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 3770.2740ms 
+2024-11-18 15:04:50.4146|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="2b359e2e-081b-4728-b975-13b7cb9a5bac" 188912 
+2024-11-18 15:04:55.5356|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 5116.4106ms 
+2024-11-18 15:07:14.9826|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="075693f9-d709-4061-bebd-53525f58f454" 142505 
+2024-11-18 15:07:18.3100|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 3330.1833ms 
+2024-11-18 15:07:18.3199|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="ca48897d-a95c-4ec5-8cee-ecb5246adbc9" 188927 
+2024-11-18 15:07:20.1742|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 1856.4438ms 
+2024-11-18 15:09:36.3470|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:09:36.3470|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:09:36.3470|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:09:36.3470|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:09:43.8589|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="81945a7c-712d-431e-b80c-38bcaee8e914" 142503 
+2024-11-18 15:09:51.2229|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 7372.5433ms 
+2024-11-18 15:09:51.2229|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="fc70af3f-ee1b-4d21-ab72-902e5b6220e2" 188912 
+2024-11-18 15:09:51.3395|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 110.4568ms 
+2024-11-18 15:10:13.2030|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="a04bd23d-a6c2-4633-8a0a-f901ed7bde84" 142503 
+2024-11-18 15:10:13.3049|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 103.7943ms 
+2024-11-18 15:10:13.3121|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="9d1bedae-b5c7-4b9b-af97-037acc050ab8" 188912 
+2024-11-18 15:10:13.4123|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 102.0070ms 
+2024-11-18 15:16:46.7000|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:16:46.7000|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:16:46.7000|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:16:46.7000|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:17:01.6615|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="77c5aa32-4e21-4e9a-92c6-fb5c9cf9f04c" 142508 
+2024-11-18 15:17:02.3126|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 659.1043ms 
+2024-11-18 15:17:02.3200|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="fd3f85a2-44d0-47de-8328-0e90182526dd" 164820 
+2024-11-18 15:17:02.3948|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 77.0695ms 
+2024-11-18 15:17:22.8723|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="1ec13b6d-8d59-4190-9824-15f8dc9e5f9b" 142508 
+2024-11-18 15:17:22.9448|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 74.4229ms 
+2024-11-18 15:17:22.9448|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="6d9bfea3-3707-4535-9e02-d3f19e219435" 164821 
+2024-11-18 15:17:23.0197|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 72.3279ms 
+2024-11-18 15:18:28.7842|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="fc2dda16-6f31-416e-a282-ab6898b8893a" 142508 
+2024-11-18 15:18:28.8755|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 93.0407ms 
+2024-11-18 15:18:28.8828|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="8fac947d-14fa-4aea-bea1-1e28493ec31b" 164820 
+2024-11-18 15:18:28.9725|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 89.5961ms 
+2024-11-18 15:33:47.4095|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:33:47.4095|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:33:47.4095|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:33:47.4095|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:34:24.2333|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="fedc8948-7335-407a-8cb2-df0354d55639" 142500 
+2024-11-18 15:34:24.7886|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 560.7212ms 
+2024-11-18 15:34:24.7886|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="bb024b53-67d5-4669-bcfa-aaf28a9f2bd8" 163950 
+2024-11-18 15:34:24.8567|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 65.8890ms 
+2024-11-18 15:35:41.1054|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:35:41.1054|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:35:41.1054|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:35:41.1054|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:36:09.1860|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="de7b519b-0fcb-4e6b-8405-23cc907b24a9" 142500 
+2024-11-18 15:36:09.8795|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 702.8597ms 
+2024-11-18 15:36:09.8795|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="00ae83bb-f4c0-4aee-a867-e3d634ce2d8b" 163965 
+2024-11-18 15:36:10.0035|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 115.0172ms 
+2024-11-18 15:53:01.8827|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 15:53:01.8827|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 15:53:01.8827|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 15:53:01.8827|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 15:53:13.8616|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="14e85166-c75c-4e96-9e23-db6b2da3fce8" 168940 
+2024-11-18 15:53:14.7374|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 886.5397ms 
+2024-11-18 15:53:14.7374|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="dc9e79a4-7a11-4f45-8aa6-c1984b7688eb" 219734 
+2024-11-18 15:53:14.8974|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 151.0526ms 
+2024-11-18 15:54:28.6857|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="ad69a74e-7186-42b6-97e3-03d34dec1ec7" 168932 
+2024-11-18 15:54:28.7907|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 107.4519ms 
+2024-11-18 15:54:28.7962|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="ed184c50-934e-4f74-a30d-101790464788" 194797 
+2024-11-18 15:54:28.8757|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 82.4240ms 
+2024-11-18 15:55:11.8044|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="720b221b-5c13-4bbc-9f09-5ad6e1c17fce" 168932 
+2024-11-18 15:55:44.2419|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 32441.9308ms 
+2024-11-18 15:55:44.2508|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="8dbafb35-8689-4c27-906b-a5579e0c2332" 194797 
+2024-11-18 15:55:45.7332|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 1484.3762ms 
+2024-11-18 15:57:23.6530|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="c9bf4753-722e-4974-b3d8-74a92143a649" 168938 
+2024-11-18 15:57:28.7069|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 5055.4625ms 
+2024-11-18 15:57:28.7144|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="1756c262-046b-4c15-a168-5ac9ba005fc0" 219467 
+2024-11-18 15:57:29.4596|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 747.5669ms 
+2024-11-18 15:58:24.6431|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="efa91be2-77b5-408c-b895-eb130e877408" 168940 
+2024-11-18 15:58:49.6086|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 24966.6079ms 
+2024-11-18 15:58:49.6086|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="59330217-f3f3-48dd-9068-11dc98acbd18" 219735 
+2024-11-18 15:58:50.4230|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 807.9155ms 
+2024-11-18 15:59:46.2551|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="018995df-f218-4dba-bda8-d52601a2adbd" 168939 
+2024-11-18 15:59:57.1964|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 10943.4079ms 
+2024-11-18 15:59:57.1964|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="8bbf46db-d7ba-4710-aad8-9a804f83c03b" 219722 
+2024-11-18 15:59:58.0577|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 855.6856ms 
+2024-11-18 16:01:44.3842|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 16:01:44.3842|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 16:01:44.3842|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 16:01:44.3842|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 16:02:00.6171|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="18f31ade-328c-43ac-8c2c-04a6c1d10acc" 168940 
+2024-11-18 16:02:05.2733|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 4665.9691ms 
+2024-11-18 16:02:05.2733|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="c42461b9-8e41-4182-a026-945996f73a4d" 219735 
+2024-11-18 16:02:05.3921|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 113.6206ms 
+2024-11-18 16:02:20.4412|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="8bc1ab00-3d86-4cf6-a8c2-bd91196d0baf" 168940 
+2024-11-18 16:02:20.5348|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 95.6619ms 
+2024-11-18 16:02:20.5388|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="7f459e5c-666f-4018-a6f4-a370440db784" 219735 
+2024-11-18 16:02:20.6364|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 99.4610ms 
+2024-11-18 16:07:57.5709|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 16:07:57.5709|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 16:07:57.5709|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 16:07:57.5709|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 16:08:32.6309|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="576e2081-390a-48e7-a47f-459c9d24adb6" 237915 
+2024-11-18 16:08:32.9568|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 332.8470ms 
+2024-11-18 16:10:08.6639|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 16:10:08.6639|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 16:10:08.6639|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 16:10:08.6639|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 16:10:17.0211|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="7a1cc0e7-6b32-4946-a1bc-bf3ef7c54c9c" 141433 
+2024-11-18 16:10:46.7385|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 29728.8859ms 
+2024-11-18 16:14:34.6981|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 16:14:34.6981|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 16:14:34.6981|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 16:14:34.6981|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 16:14:44.9493|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="e0e9d08b-f638-4f9a-a2c1-22b66d4d918b" 168940 
+2024-11-18 16:14:45.8458|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 903.2578ms 
+2024-11-18 16:14:45.8458|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="b047283b-19be-44cc-9a23-58d686e30e7e" 219734 
+2024-11-18 16:14:45.9712|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 121.9080ms 
+2024-11-18 16:14:48.0345|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="92c9c59d-8f99-407e-b9b7-c660424b2d99" 141433 
+2024-11-18 16:14:53.2182|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 5180.8861ms 
+2024-11-18 16:15:30.1616|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="5d057cdc-0894-47e5-a9c7-9cddf14509c0" 168940 
+2024-11-18 16:15:30.2481|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 87.6650ms 
+2024-11-18 16:15:30.2523|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="c338c19a-5965-4dad-8280-77280d69ca42" 219734 
+2024-11-18 16:15:30.3435|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 91.7015ms 
+2024-11-18 16:15:32.4062|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="0c23c9b0-d1c9-448e-be09-6dbde40bb7f1" 237914 
+2024-11-18 16:15:32.4531|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 46.1098ms 
+2024-11-18 17:30:52.0546|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-18 17:30:52.0546|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-18 17:30:52.0546|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-18 17:30:52.0546|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-18 17:31:29.3247|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="01751f23-b20f-4189-83bb-da174e55e8c0" 142508 
+2024-11-18 17:31:30.0845|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 766.2256ms 
+2024-11-18 17:31:30.0845|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="4ce821e5-9167-44e4-8352-7ba75008271d" 195653 
+2024-11-18 17:31:30.2264|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 140.3620ms 
+2024-11-18 17:31:32.2889|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="b455b3b8-08aa-48b1-81bc-1ead94740ff8" 213833 
+2024-11-18 17:31:32.3352|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 50.0283ms 
+2024-11-18 17:35:47.8315|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="01e35889-bb07-482f-be66-1215a12ff2ac" 142508 
+2024-11-18 17:35:47.9059|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 75.3631ms 
+2024-11-18 17:35:47.9136|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="53c01882-35f8-4f65-873f-7406ae2b5e79" 171628 
+2024-11-18 17:35:47.9887|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 75.6627ms 
+2024-11-18 17:36:07.8791|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="9a067172-5763-41f1-ad5d-324bfb88941c" 142508 
+2024-11-18 17:36:07.9230|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 44.9273ms 
+2024-11-18 17:36:07.9310|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="e021e9ce-9541-4610-ba46-bc6213263918" 171627 
+2024-11-18 17:36:07.9748|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 44.8110ms 
+2024-11-18 17:36:10.0364|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="53131b96-3998-4b2f-8585-106ef01c241c" 192814 
+2024-11-18 17:36:10.0538|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 16.9225ms 
+2024-11-18 17:40:33.1689|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="88f1736b-5569-4b80-bbbe-8812bcb64b0f" 168940 
+2024-11-18 17:40:33.2095|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 41.6842ms 
+2024-11-18 17:40:33.2095|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="67ee5e5e-a231-4740-bebc-4eefa147871c" 195709 
+2024-11-18 17:40:33.2487|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 33.6922ms 
+2024-11-18 17:40:35.3304|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="d0cf7a6a-2b56-4bdd-8ec2-21b7444d44e2" 216896 
+2024-11-18 17:40:35.3462|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 16.7986ms 

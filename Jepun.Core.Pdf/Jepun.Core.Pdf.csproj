@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>D:\RD2\Jepun.Framework\MyNet8.0\dlls</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="testpdf\**" />
+    <EmbeddedResource Remove="testpdf\**" />
+    <None Remove="testpdf\**" />
+  </ItemGroup>
+
+
+	<ItemGroup>
+		<!--此包先不使用 讓外部去引用-->
+		<!--<PackageReference Include="itext.licensing.base" Version="4.1.0" />-->
+		<!--<PackageReference Include="BouncyCastle.Cryptography" Version="2.3.1" />-->
+		<PackageReference Include="itext" Version="8.0.5" />
+		<PackageReference Include="itext.bouncy-castle-adapter" Version="8.0.5" />
+		<!--<PackageReference Include="itext.bouncy-castle-adapter" Version="8.0.1" />-->
+		<PackageReference Include="itext.pdfhtml" Version="5.0.1" />
+	</ItemGroup>
+</Project>

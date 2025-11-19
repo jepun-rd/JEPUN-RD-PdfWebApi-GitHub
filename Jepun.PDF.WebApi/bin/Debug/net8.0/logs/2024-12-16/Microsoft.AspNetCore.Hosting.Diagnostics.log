@@ -1,0 +1,88 @@
+2024-12-16 10:40:09.7865|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 10:40:09.7865|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 10:40:09.7865|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 10:40:09.7865|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 10:41:06.1622|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 10:41:06.1622|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 10:41:06.1622|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 10:41:06.1622|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 10:41:11.1953|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 10:41:11.2138|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="31bdaac4-3cf0-4ffc-ab63-50fbdcfb920e" 265594 
+2024-12-16 10:41:11.2906|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 98.8858ms 
+2024-12-16 10:41:39.0086|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 200 - application/octet-stream 27799.1156ms 
+2024-12-16 10:49:45.5855|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 10:49:45.5855|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 10:49:45.5855|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 10:49:45.5855|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 10:49:47.7771|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 10:49:47.8559|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 84.2524ms 
+2024-12-16 10:49:49.9455|INFO|Request starting HTTP/1.1 POST https://localhost:5566/isProtected - multipart/form-data;+boundary="30664b4a-8f36-47c3-8c27-d42f60933548" 141435 
+2024-12-16 10:49:50.0537|INFO|Request finished HTTP/1.1 POST https://localhost:5566/isProtected - 200 - application/json;+charset=utf-8 108.3306ms 
+2024-12-16 10:49:52.1648|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="fc7e5540-59ec-4549-8b3b-851a38b004df" 265594 
+2024-12-16 10:50:06.7252|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 200 - application/octet-stream 14558.0714ms 
+2024-12-16 11:21:23.8650|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:21:23.8650|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:21:23.8650|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:21:23.8650|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:21:25.8070|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:21:25.8893|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 85.4608ms 
+2024-12-16 11:21:27.9572|INFO|Request starting HTTP/1.1 POST https://localhost:5566/encryptPDF - multipart/form-data;+boundary="686521d3-34ee-44b1-951c-13105c4c380a" 141572 
+2024-12-16 11:21:28.1280|INFO|Request finished HTTP/1.1 POST https://localhost:5566/encryptPDF - 400 - text/plain;+charset=utf-8 169.1266ms 
+2024-12-16 11:24:38.5457|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:24:38.5457|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:24:38.5457|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:24:38.5457|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:24:40.7433|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:24:40.8252|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 85.1417ms 
+2024-12-16 11:24:42.8909|INFO|Request starting HTTP/1.1 POST https://localhost:5566/encryptPDF - multipart/form-data;+boundary="9e125d63-aed3-4eea-8ac7-6030768fefdc" 141975 
+2024-12-16 11:24:43.1076|INFO|Request finished HTTP/1.1 POST https://localhost:5566/encryptPDF - 200 - application/octet-stream 215.0939ms 
+2024-12-16 11:24:45.1585|INFO|Request starting HTTP/1.1 POST https://localhost:5566/isProtected - multipart/form-data;+boundary="bfd46628-4e52-4ee8-9b0e-875f4da4299e" 141435 
+2024-12-16 11:24:45.1696|INFO|Request finished HTTP/1.1 POST https://localhost:5566/isProtected - 200 - application/json;+charset=utf-8 20.8126ms 
+2024-12-16 11:24:47.2957|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="d8eb86f6-81b0-4084-b581-4b7c9fcdfdc7" 265594 
+2024-12-16 11:24:58.0204|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 200 - application/octet-stream 10723.4269ms 
+2024-12-16 11:33:11.4954|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:33:11.4954|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:33:11.4954|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:33:11.4954|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:33:13.0050|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:33:13.0893|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 90.6374ms 
+2024-12-16 11:33:15.1993|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addFiles - multipart/form-data;+boundary="8e0663b7-8e04-4fee-bbe4-897ca560e505" 264499 
+2024-12-16 11:33:15.5512|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addFiles - 200 - application/octet-stream 342.0832ms 
+2024-12-16 11:33:17.6002|INFO|Request starting HTTP/1.1 POST https://localhost:5566/encryptPDF - multipart/form-data;+boundary="9b378f72-9302-487e-804e-97307f40075b" 141975 
+2024-12-16 11:33:17.6516|INFO|Request finished HTTP/1.1 POST https://localhost:5566/encryptPDF - 200 - application/octet-stream 49.6564ms 
+2024-12-16 11:33:19.7192|INFO|Request starting HTTP/1.1 POST https://localhost:5566/isProtected - multipart/form-data;+boundary="c27cca20-7059-4777-8643-88c9fad4c56d" 141435 
+2024-12-16 11:33:19.7309|INFO|Request finished HTTP/1.1 POST https://localhost:5566/isProtected - 200 - application/json;+charset=utf-8 18.3100ms 
+2024-12-16 11:33:21.8088|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="9da09aea-dd33-499f-97e6-63d374e79aa4" 265594 
+2024-12-16 11:33:34.7010|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 200 - application/octet-stream 12890.8408ms 
+2024-12-16 11:47:41.8843|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:47:41.8843|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:47:41.8843|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:47:41.8843|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:47:43.3034|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:47:43.3847|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 95.4062ms 
+2024-12-16 11:47:45.4771|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchText - multipart/form-data;+boundary="81ba57c9-1389-468d-9b99-5a3e074485c3" 141581 
+2024-12-16 11:47:45.6976|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchText - 200 - application/json;+charset=utf-8 222.3181ms 
+2024-12-16 11:50:49.5032|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:50:49.5032|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:50:49.5032|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:50:49.5032|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:50:51.7497|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:50:51.8248|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 87.7022ms 
+2024-12-16 11:50:53.9015|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchTextChunk - multipart/form-data;+boundary="dc7dc9b9-d917-4ea6-8cda-b2b342126c65" 141581 
+2024-12-16 11:50:54.0564|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchTextChunk - 200 - application/json;+charset=utf-8 163.8833ms 
+2024-12-16 11:55:07.8397|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-12-16 11:55:07.8397|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-12-16 11:55:07.8397|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-12-16 11:55:07.8397|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-12-16 11:55:10.0467|INFO|Request starting HTTP/1.1 GET https://localhost:5566/ - - - 
+2024-12-16 11:55:10.1169|INFO|Request finished HTTP/1.1 GET https://localhost:5566/ - 200 - text/plain;+charset=utf-8 82.0315ms 
+2024-12-16 11:55:12.2021|INFO|Request starting HTTP/1.1 POST https://localhost:5566/getTextFullList - multipart/form-data;+boundary="1ae222ce-0e3f-49a6-9cb8-71b4c66ab93f" 141435 
+2024-12-16 11:55:12.3694|INFO|Request finished HTTP/1.1 POST https://localhost:5566/getTextFullList - 200 - application/json;+charset=utf-8 165.9154ms 
+2024-12-16 11:55:14.4133|INFO|Request starting HTTP/1.1 POST https://localhost:5566/getTextChunkList - multipart/form-data;+boundary="69ba920d-8a02-4a96-af28-d0fdffc1548b" 141435 
+2024-12-16 11:55:14.4461|INFO|Request finished HTTP/1.1 POST https://localhost:5566/getTextChunkList - 200 - application/json;+charset=utf-8 34.9532ms 
+2024-12-16 11:55:40.2446|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchTextChunk - multipart/form-data;+boundary="9b587f42-2378-4689-a8cd-17cae00926c1" 141581 
+2024-12-16 11:55:40.2752|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchTextChunk - 200 - application/json;+charset=utf-8 33.1802ms 
+2024-12-16 11:55:43.1799|INFO|Request starting HTTP/1.1 POST https://localhost:5566/searchText - multipart/form-data;+boundary="17eaf416-c593-4526-acc8-88bf859532c8" 141581 
+2024-12-16 11:55:43.1962|INFO|Request finished HTTP/1.1 POST https://localhost:5566/searchText - 200 - application/json;+charset=utf-8 16.0804ms 
+2024-12-16 11:55:46.2122|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addFiles - multipart/form-data;+boundary="a04e39af-d51c-4eaf-a316-abae8e64a019" 264499 
+2024-12-16 11:55:46.3188|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addFiles - 200 - application/octet-stream 104.2841ms 

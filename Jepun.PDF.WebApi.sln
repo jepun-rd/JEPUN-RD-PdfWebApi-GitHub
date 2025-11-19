@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11206.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jepun.PDF.WebApi", "Jepun.PDF.WebApi\Jepun.PDF.WebApi.csproj", "{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jepun.Core.Pdf", "Jepun.Core.Pdf\Jepun.Core.Pdf.csproj", "{2C868339-9032-8925-E8D0-1ABB71273F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C868339-9032-8925-E8D0-1ABB71273F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C868339-9032-8925-E8D0-1ABB71273F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C868339-9032-8925-E8D0-1ABB71273F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C868339-9032-8925-E8D0-1ABB71273F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EAEF6B-604A-40B1-A8A4-A4A599848EAA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,152 @@
+2024-11-18 09:55:40.8202|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-18 09:55:40.8202|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 09:56:50.5054|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-18 09:56:50.5054|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 09:57:50.1444|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-18 09:57:50.1444|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 09:58:47.3145|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-18 09:58:47.3145|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 09:59:48.1020|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-18 09:59:48.1067|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:01:17.6872|DEBUG|Request matched endpoint 'HTTP: POST /searchTextChunk' 
+2024-11-18 10:01:17.6872|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:16:50.5988|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:16:50.5988|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:17:28.7613|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:17:28.7613|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:18:34.2506|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:18:34.2506|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:20:45.6894|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:20:45.6894|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:29:04.8944|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:29:04.8944|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:38:01.7434|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextAddImgToPdf' 
+2024-11-18 10:38:01.7622|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:39:24.8114|DEBUG|Request matched endpoint 'HTTP: POST /searchMultiTextChunkAddImgToPdf' 
+2024-11-18 10:39:24.8114|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:44:00.7551|DEBUG|Request matched endpoint 'HTTP: POST /getText' 
+2024-11-18 10:44:00.7551|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:45:49.9536|DEBUG|Request matched endpoint 'HTTP: POST /getTextLine' 
+2024-11-18 10:45:49.9536|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:48:31.6706|DEBUG|Request matched endpoint 'HTTP: POST /getTextChunk' 
+2024-11-18 10:48:31.6706|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:54:13.7405|DEBUG|Request matched endpoint 'HTTP: POST /searchTextChunk' 
+2024-11-18 10:54:13.7405|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 10:54:21.7943|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-18 10:54:21.7943|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 11:01:57.1836|DEBUG|Request matched endpoint 'HTTP: POST /addCustomProperty' 
+2024-11-18 11:01:57.1836|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 11:02:25.7265|DEBUG|Request matched endpoint 'HTTP: POST /addCustomProperty' 
+2024-11-18 11:02:25.7265|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 14:50:48.9907|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 14:50:48.9962|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 14:50:53.1546|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 14:50:53.1546|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:03:06.7119|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:03:06.7119|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:04:46.6476|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:04:46.6476|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:04:50.4146|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:04:50.4146|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:07:14.9826|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:07:14.9852|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:07:18.3199|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:07:18.3199|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:09:43.8996|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:09:43.9051|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:09:51.2338|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:09:51.2338|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:10:13.2030|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:10:13.2030|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:10:13.3121|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:10:13.3121|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:17:01.6998|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:17:01.6998|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:17:02.3200|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:17:02.3200|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:17:22.8723|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:17:22.8723|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:17:22.9448|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:17:22.9448|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:18:28.7842|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:18:28.7842|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:18:28.8828|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:18:28.8828|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:34:24.2719|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:34:24.2719|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:34:24.7886|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:34:24.7886|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:36:09.2313|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:36:09.2313|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:36:09.8795|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:36:09.8795|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:53:13.9052|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:53:13.9052|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:53:14.7494|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:53:14.7494|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:54:28.6857|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:54:28.6857|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:54:28.7962|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:54:28.7962|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:55:11.8044|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:55:11.8044|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:55:44.2508|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:55:44.2508|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:57:23.6530|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:57:23.6530|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:57:28.7144|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:57:28.7144|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:58:24.6431|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:58:24.6431|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:58:49.6086|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:58:49.6086|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:59:46.2551|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:59:46.2551|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 15:59:57.1964|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 15:59:57.1964|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:02:00.6643|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:02:00.6643|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:02:05.2733|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:02:05.2733|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:02:20.4412|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:02:20.4412|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:02:20.5388|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:02:20.5388|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:08:32.6703|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 16:08:32.6703|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:10:17.0811|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 16:10:17.0811|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:14:44.9905|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:14:44.9905|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:14:45.8458|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:14:45.8458|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:14:48.0345|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 16:14:48.0345|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:15:30.1616|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:15:30.1616|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:15:30.2523|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 16:15:30.2523|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 16:15:32.4062|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 16:15:32.4062|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:31:29.3726|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:31:29.3726|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:31:30.0845|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:31:30.0845|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:31:32.2889|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 17:31:32.2889|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:35:47.8327|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:35:47.8327|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:35:47.9136|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:35:47.9136|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:36:07.8791|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:36:07.8791|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:36:07.9310|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:36:07.9310|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:36:10.0364|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 17:36:10.0364|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:40:33.1689|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:40:33.1689|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:40:33.2095|DEBUG|Request matched endpoint 'HTTP: POST /signPdf' 
+2024-11-18 17:40:33.2095|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-18 17:40:35.3304|DEBUG|Request matched endpoint 'HTTP: POST /verifySignatures' 
+2024-11-18 17:40:35.3304|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 

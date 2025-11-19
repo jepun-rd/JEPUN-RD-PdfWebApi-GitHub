@@ -1,0 +1,15 @@
+2024-11-13 15:40:01.8421|DEBUG|Request matched endpoint 'HTTP: GET /' 
+2024-11-13 15:40:01.8421|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 15:40:01.9949|DEBUG|Request did not match any endpoints 
+2024-11-13 15:46:43.2073|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 15:46:43.2073|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 16:15:16.8946|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 16:15:16.8946|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 17:18:19.4939|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 17:18:19.4939|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 17:19:09.4246|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 17:19:09.4246|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 17:19:54.9126|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 17:19:54.9126|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-13 17:20:47.4412|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-13 17:20:47.4412|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 

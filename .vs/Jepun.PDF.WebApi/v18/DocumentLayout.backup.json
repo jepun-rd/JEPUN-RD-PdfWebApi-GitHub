@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\JEPUN-RD-PdfWebApi-GitHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}|Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.pdf.webapi\\jepun.pdf.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}|Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj|solutionrelative:jepun.pdf.webapi\\jepun.pdf.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jepun.PDF.WebApi",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "RelativeDocumentMoniker": "Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "RelativeToolTip": "Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T03:10:00.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

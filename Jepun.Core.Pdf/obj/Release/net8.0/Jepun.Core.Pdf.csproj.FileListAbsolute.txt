@@ -1,0 +1,12 @@
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.csproj.AssemblyReference.cache
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.AssemblyInfoInputs.cache
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.AssemblyInfo.cs
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.csproj.CoreCompileInputs.cache
+D:\RD2\Jepun.Framework\MyNet8.0\dlls\Release\net8.0\Jepun.Core.Pdf.deps.json
+D:\RD2\Jepun.Framework\MyNet8.0\dlls\Release\net8.0\Jepun.Core.Pdf.dll
+D:\RD2\Jepun.Framework\MyNet8.0\dlls\Release\net8.0\Jepun.Core.Pdf.pdb
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.dll
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\refint\Jepun.Core.Pdf.dll
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\Jepun.Core.Pdf.pdb
+D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\obj\Release\net8.0\ref\Jepun.Core.Pdf.dll

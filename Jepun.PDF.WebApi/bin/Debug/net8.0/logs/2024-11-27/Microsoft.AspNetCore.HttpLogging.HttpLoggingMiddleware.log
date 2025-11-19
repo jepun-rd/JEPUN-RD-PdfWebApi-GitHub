@@ -1,0 +1,77 @@
+2024-11-27 14:59:01.9965|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /signPdf
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="d4ac8b45-70dc-4ca9-8ceb-3c2af1ac8233"
+Content-Length: 168940
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 14:59:01.9965|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 14:59:09.5561|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /signPdf
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="551b668c-6709-4db3-abe2-41b069f09781"
+Content-Length: 8048
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 14:59:09.5561|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 14:59:11.9797|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /verifySignatures
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="a42f1a9d-b5ec-47bc-bb32-4e62c06cab11"
+Content-Length: 175
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 14:59:11.9797|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 15:01:00.2349|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /signPdf
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="d84a1e0b-0884-4e71-b9e9-cbe524f02da1"
+Content-Length: 168940
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 15:01:00.2424|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 15:02:52.3792|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /signPdf
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="b810eb16-f9e7-4a25-b105-184a9e7c53ae"
+Content-Length: 168940
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 15:02:52.3956|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 15:03:06.5799|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /signPdf
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="8d29622a-e7c5-4c6a-b831-e0a419902c53"
+Content-Length: 195688
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 15:03:06.5799|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-27 15:03:13.7520|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /verifySignatures
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="83302cee-90d3-4f25-a254-2da87127c4dd"
+Content-Length: 216853
+Jepun_TraceIdentifier: [Redacted] 
+2024-11-27 15:03:13.7520|DEBUG|Unrecognized Content-Type for request body. 

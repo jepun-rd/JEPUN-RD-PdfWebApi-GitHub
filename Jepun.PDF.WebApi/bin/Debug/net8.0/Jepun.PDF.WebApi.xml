@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jepun.PDF.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Jepun.PDF.WebApi.Program.GetBytes(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            取得 PDF 的 bytes
+            </summary>
+            <param name="context">HttpContext</param>
+            <returns>PDF 的 bytes</returns>
+        </member>
+    </members>
+</doc>

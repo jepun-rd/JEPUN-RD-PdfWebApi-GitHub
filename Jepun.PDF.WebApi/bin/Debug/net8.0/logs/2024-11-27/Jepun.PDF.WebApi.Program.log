@@ -1,0 +1,25 @@
+2024-11-27 14:51:08.0083|INFO|init main 
+2024-11-27 14:58:12.2319|INFO|init main 
+2024-11-27 14:59:02.2021|ERROR|PKCS12 key store MAC invalid - wrong password or corrupted file. 
+ *****Error***** 
+ System.IO.IOException: PKCS12 key store MAC invalid - wrong password or corrupted file.
+   at Org.BouncyCastle.Pkcs.Pkcs12Store.Load(Stream input, Char[] password)
+   at Jepun.Core.Pdf.PdfHelper.SignPdf(Byte[] pdfFile, String pfxFilePath, String pfxPassword, String signatureFieldName, String reason, String location, Single x, Single y, Single width, Single height, Int32 page, Byte[] signPicture) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\PdfHelper.cs:line 1108
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_1.<<Main>b__23>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 373
+2024-11-27 14:59:09.6041|ERROR|PKCS12 key store MAC invalid - wrong password or corrupted file. 
+ *****Error***** 
+ System.IO.IOException: PKCS12 key store MAC invalid - wrong password or corrupted file.
+   at Org.BouncyCastle.Pkcs.Pkcs12Store.Load(Stream input, Char[] password)
+   at Jepun.Core.Pdf.PdfHelper.SignPdf(Byte[] pdfFile, String pfxFilePath, String pfxPassword, String signatureFieldName, String reason, String location, Single x, Single y, Single width, Single height, Int32 page, Byte[] signPicture) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\PdfHelper.cs:line 1108
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_1.<<Main>b__23>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 373
+2024-11-27 14:59:12.0334|ERROR|PDF header not found. 
+ *****Error***** 
+ iText.IO.Exceptions.IOException: PDF header not found.
+   at iText.IO.Source.PdfTokenizer.GetHeaderOffset()
+   at iText.Kernel.Pdf.PdfReader.GetOffsetTokeniser(IRandomAccessSource byteSource, Boolean closeStream)
+   at iText.Kernel.Pdf.PdfReader..ctor(IRandomAccessSource byteSource, ReaderProperties properties, Boolean closeStream)
+   at iText.Kernel.Pdf.PdfReader..ctor(Stream is, ReaderProperties properties)
+   at iText.Kernel.Pdf.PdfReader..ctor(Stream is)
+   at Jepun.Core.Pdf.PdfHelper.VerifySignatures(Byte[] pdfFile) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\Core\Jepun.Core.Pdf\PdfHelper.cs:line 1059
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_0.<<Main>b__22>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 356
+2024-11-27 15:02:39.8019|INFO|init main 

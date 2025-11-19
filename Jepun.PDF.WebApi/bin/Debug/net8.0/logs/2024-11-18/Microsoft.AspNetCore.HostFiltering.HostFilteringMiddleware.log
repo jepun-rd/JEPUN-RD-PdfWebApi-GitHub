@@ -1,0 +1,97 @@
+2024-11-18 09:55:40.7898|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 09:55:40.7898|TRACE|All hosts are allowed. 
+2024-11-18 09:56:50.4729|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 09:56:50.4729|TRACE|All hosts are allowed. 
+2024-11-18 09:57:50.1086|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 09:57:50.1086|TRACE|All hosts are allowed. 
+2024-11-18 09:58:47.2707|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 09:58:47.2707|TRACE|All hosts are allowed. 
+2024-11-18 09:59:48.0737|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 09:59:48.0737|TRACE|All hosts are allowed. 
+2024-11-18 10:01:17.6574|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 10:01:17.6574|TRACE|All hosts are allowed. 
+2024-11-18 10:16:50.5988|TRACE|All hosts are allowed. 
+2024-11-18 10:17:28.7613|TRACE|All hosts are allowed. 
+2024-11-18 10:18:34.2506|TRACE|All hosts are allowed. 
+2024-11-18 10:20:45.6894|TRACE|All hosts are allowed. 
+2024-11-18 10:29:04.8447|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 10:29:04.8447|TRACE|All hosts are allowed. 
+2024-11-18 10:38:01.7047|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 10:38:01.7047|TRACE|All hosts are allowed. 
+2024-11-18 10:39:24.8055|TRACE|All hosts are allowed. 
+2024-11-18 10:44:00.7551|TRACE|All hosts are allowed. 
+2024-11-18 10:45:49.9536|TRACE|All hosts are allowed. 
+2024-11-18 10:48:31.6706|TRACE|All hosts are allowed. 
+2024-11-18 10:54:13.7405|TRACE|All hosts are allowed. 
+2024-11-18 10:54:21.7943|TRACE|All hosts are allowed. 
+2024-11-18 11:01:57.1494|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 11:01:57.1494|TRACE|All hosts are allowed. 
+2024-11-18 11:02:25.7265|TRACE|All hosts are allowed. 
+2024-11-18 14:50:48.9588|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 14:50:48.9588|TRACE|All hosts are allowed. 
+2024-11-18 14:50:53.1546|TRACE|All hosts are allowed. 
+2024-11-18 15:03:06.6820|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:03:06.6820|TRACE|All hosts are allowed. 
+2024-11-18 15:04:46.6476|TRACE|All hosts are allowed. 
+2024-11-18 15:04:50.4146|TRACE|All hosts are allowed. 
+2024-11-18 15:07:14.9826|TRACE|All hosts are allowed. 
+2024-11-18 15:07:18.3199|TRACE|All hosts are allowed. 
+2024-11-18 15:09:43.8667|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:09:43.8667|TRACE|All hosts are allowed. 
+2024-11-18 15:09:51.2229|TRACE|All hosts are allowed. 
+2024-11-18 15:10:13.2030|TRACE|All hosts are allowed. 
+2024-11-18 15:10:13.3121|TRACE|All hosts are allowed. 
+2024-11-18 15:17:01.6691|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:17:01.6691|TRACE|All hosts are allowed. 
+2024-11-18 15:17:02.3200|TRACE|All hosts are allowed. 
+2024-11-18 15:17:22.8723|TRACE|All hosts are allowed. 
+2024-11-18 15:17:22.9448|TRACE|All hosts are allowed. 
+2024-11-18 15:18:28.7842|TRACE|All hosts are allowed. 
+2024-11-18 15:18:28.8828|TRACE|All hosts are allowed. 
+2024-11-18 15:34:24.2419|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:34:24.2419|TRACE|All hosts are allowed. 
+2024-11-18 15:34:24.7886|TRACE|All hosts are allowed. 
+2024-11-18 15:36:09.1957|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:36:09.1957|TRACE|All hosts are allowed. 
+2024-11-18 15:36:09.8795|TRACE|All hosts are allowed. 
+2024-11-18 15:53:13.8616|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 15:53:13.8616|TRACE|All hosts are allowed. 
+2024-11-18 15:53:14.7494|TRACE|All hosts are allowed. 
+2024-11-18 15:54:28.6857|TRACE|All hosts are allowed. 
+2024-11-18 15:54:28.7962|TRACE|All hosts are allowed. 
+2024-11-18 15:55:11.8044|TRACE|All hosts are allowed. 
+2024-11-18 15:55:44.2508|TRACE|All hosts are allowed. 
+2024-11-18 15:57:23.6530|TRACE|All hosts are allowed. 
+2024-11-18 15:57:28.7144|TRACE|All hosts are allowed. 
+2024-11-18 15:58:24.6431|TRACE|All hosts are allowed. 
+2024-11-18 15:58:49.6086|TRACE|All hosts are allowed. 
+2024-11-18 15:59:46.2551|TRACE|All hosts are allowed. 
+2024-11-18 15:59:57.1964|TRACE|All hosts are allowed. 
+2024-11-18 16:02:00.6171|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 16:02:00.6171|TRACE|All hosts are allowed. 
+2024-11-18 16:02:05.2733|TRACE|All hosts are allowed. 
+2024-11-18 16:02:20.4412|TRACE|All hosts are allowed. 
+2024-11-18 16:02:20.5388|TRACE|All hosts are allowed. 
+2024-11-18 16:08:32.6309|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 16:08:32.6309|TRACE|All hosts are allowed. 
+2024-11-18 16:10:17.0335|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 16:10:17.0335|TRACE|All hosts are allowed. 
+2024-11-18 16:14:44.9575|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 16:14:44.9575|TRACE|All hosts are allowed. 
+2024-11-18 16:14:45.8458|TRACE|All hosts are allowed. 
+2024-11-18 16:14:48.0345|TRACE|All hosts are allowed. 
+2024-11-18 16:15:30.1616|TRACE|All hosts are allowed. 
+2024-11-18 16:15:30.2523|TRACE|All hosts are allowed. 
+2024-11-18 16:15:32.4062|TRACE|All hosts are allowed. 
+2024-11-18 17:31:29.3362|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-18 17:31:29.3362|TRACE|All hosts are allowed. 
+2024-11-18 17:31:30.0845|TRACE|All hosts are allowed. 
+2024-11-18 17:31:32.2889|TRACE|All hosts are allowed. 
+2024-11-18 17:35:47.8327|TRACE|All hosts are allowed. 
+2024-11-18 17:35:47.9136|TRACE|All hosts are allowed. 
+2024-11-18 17:36:07.8791|TRACE|All hosts are allowed. 
+2024-11-18 17:36:07.9310|TRACE|All hosts are allowed. 
+2024-11-18 17:36:10.0364|TRACE|All hosts are allowed. 
+2024-11-18 17:40:33.1689|TRACE|All hosts are allowed. 
+2024-11-18 17:40:33.2095|TRACE|All hosts are allowed. 
+2024-11-18 17:40:35.3304|TRACE|All hosts are allowed. 

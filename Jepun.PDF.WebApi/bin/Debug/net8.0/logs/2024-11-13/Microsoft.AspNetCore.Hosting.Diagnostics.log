@@ -1,0 +1,37 @@
+2024-11-13 15:39:06.6778|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-13 15:39:06.6778|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-13 15:39:06.6778|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-13 15:39:06.6778|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-13 15:40:01.7630|INFO|Request starting HTTP/2 GET https://localhost:3000/ - - - 
+2024-11-13 15:40:01.8908|INFO|Request finished HTTP/2 GET https://localhost:3000/ - 200 - text/plain;+charset=utf-8 138.9814ms 
+2024-11-13 15:40:01.9949|INFO|Request starting HTTP/2 GET https://localhost:3000/favicon.ico - - - 
+2024-11-13 15:40:02.0102|INFO|Request finished HTTP/2 GET https://localhost:3000/favicon.ico - 404 0 - 12.5431ms 
+2024-11-13 15:40:02.0102|INFO|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:3000/favicon.ico, Response status code: 404 
+2024-11-13 15:45:16.6650|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-13 15:45:16.6650|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-13 15:45:16.6650|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-13 15:45:16.6650|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-13 15:46:43.1621|INFO|Request starting HTTP/1.1 POST https://localhost:5566/AddStamper - multipart/form-data;+boundary="1fb05674-05fd-4787-9d75-77a9468887e0" 265580 
+2024-11-13 15:46:57.7422|INFO|Request finished HTTP/1.1 POST https://localhost:5566/AddStamper - 200 - application/octet-stream 14592.3457ms 
+2024-11-13 16:15:04.8084|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-13 16:15:04.8084|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-13 16:15:04.8084|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-13 16:15:04.8084|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-13 16:15:16.8656|INFO|Request starting HTTP/1.1 POST https://localhost:5566/AddStamper - multipart/form-data;+boundary="c8edff5c-ec78-45bb-b06e-52af18f696ec" 265580 
+2024-11-13 16:15:32.2503|INFO|Request finished HTTP/1.1 POST https://localhost:5566/AddStamper - 200 - application/octet-stream 15394.1702ms 
+2024-11-13 17:18:08.6802|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-13 17:18:08.6802|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-13 17:18:08.6802|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-13 17:18:08.6802|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-13 17:18:19.4501|INFO|Request starting HTTP/1.1 POST https://localhost:5566/AddStamper - multipart/form-data;+boundary="510de754-8b0c-43ff-a6c3-94aa472899b3" 265580 
+2024-11-13 17:18:19.7277|INFO|Request finished HTTP/1.1 POST https://localhost:5566/AddStamper - 400 - text/plain;+charset=utf-8 285.0329ms 
+2024-11-13 17:19:09.4202|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="d492b61d-23b5-497e-be41-d59aa263fce4" 265580 
+2024-11-13 17:19:09.5838|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 400 - text/plain;+charset=utf-8 170.9909ms 
+2024-11-13 17:19:32.1449|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-13 17:19:32.1449|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-13 17:19:32.1449|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-13 17:19:32.1449|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-13 17:19:54.8724|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="6179726a-c7fd-4af7-a933-f170684c5b77" 265580 
+2024-11-13 17:19:55.1449|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 400 - text/plain;+charset=utf-8 280.6044ms 
+2024-11-13 17:20:47.4328|INFO|Request starting HTTP/1.1 POST https://localhost:5566/addStamper - multipart/form-data;+boundary="5b2d502c-8bc0-4211-beb0-6b835bebc7df" 265594 
+2024-11-13 17:21:06.4767|INFO|Request finished HTTP/1.1 POST https://localhost:5566/addStamper - 200 - application/octet-stream 19046.6790ms 

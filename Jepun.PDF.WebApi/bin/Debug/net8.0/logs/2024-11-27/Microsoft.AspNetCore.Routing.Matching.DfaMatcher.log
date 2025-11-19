@@ -1,0 +1,7 @@
+2024-11-27 14:59:01.9894|DEBUG|1 candidate(s) found for the request path '/signPdf' 
+2024-11-27 14:59:09.5561|DEBUG|1 candidate(s) found for the request path '/signPdf' 
+2024-11-27 14:59:11.9797|DEBUG|1 candidate(s) found for the request path '/verifySignatures' 
+2024-11-27 15:01:00.2349|DEBUG|1 candidate(s) found for the request path '/signPdf' 
+2024-11-27 15:02:52.3792|DEBUG|1 candidate(s) found for the request path '/signPdf' 
+2024-11-27 15:03:06.5720|DEBUG|1 candidate(s) found for the request path '/signPdf' 
+2024-11-27 15:03:13.7395|DEBUG|1 candidate(s) found for the request path '/verifySignatures' 

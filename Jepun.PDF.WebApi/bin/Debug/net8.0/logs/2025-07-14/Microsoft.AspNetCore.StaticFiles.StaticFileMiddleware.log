@@ -1,0 +1,13 @@
+2025-07-14 15:39:40.2970|DEBUG|Static files was skipped as the request already matched an endpoint. 
+2025-07-14 15:39:40.4771|DEBUG|The request path  does not match the path filter 
+2025-07-14 15:39:57.2260|TRACE|Range header's value is empty. 
+2025-07-14 15:39:57.2260|TRACE|Range header's value is empty. 
+2025-07-14 15:39:57.2432|INFO|Sending file. Request path: '/index.css'. Physical path: 'N/A' 
+2025-07-14 15:39:57.2573|TRACE|Range header's value is empty. 
+2025-07-14 15:39:57.2573|TRACE|Range header's value is empty. 
+2025-07-14 15:39:57.2732|INFO|Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-07-14 15:39:57.2732|INFO|Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-07-14 15:39:57.3195|INFO|Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-07-14 15:39:57.4912|TRACE|Range header's value is empty. 
+2025-07-14 15:39:57.4912|INFO|Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-07-14 15:40:38.1399|DEBUG|Static files was skipped as the request already matched an endpoint. 

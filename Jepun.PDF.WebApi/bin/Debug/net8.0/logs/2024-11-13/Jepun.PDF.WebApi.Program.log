@@ -1,0 +1,29 @@
+2024-11-13 13:37:54.9280|INFO|init main 
+2024-11-13 13:39:05.6502|ERROR|The process cannot access the file 'd:\output_AddStamper.Pdf' because it is being used by another process. 
+ *****Error***** 
+ System.IO.IOException: The process cannot access the file 'd:\output_AddStamper.Pdf' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.File.OpenHandle(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_0.<<Main>b__1>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 80
+2024-11-13 14:18:20.4129|INFO|init main 
+2024-11-13 14:27:25.1272|INFO|init main 
+2024-11-13 14:56:38.9218|INFO|init main 
+2024-11-13 14:57:10.2912|INFO|init main 
+2024-11-13 15:01:11.0780|INFO|init main 
+2024-11-13 15:02:39.5941|INFO|init main 
+2024-11-13 15:31:15.7569|INFO|init main 
+2024-11-13 15:39:06.0789|INFO|init main 
+2024-11-13 15:43:24.7792|INFO|init main 
+2024-11-13 15:44:55.0602|INFO|init main 
+2024-11-13 15:44:55.3260|ERROR|Stopped Jepun.PDF.WebApi because of exception 
+ *****Error***** 
+ System.InvalidOperationException: Unable to find the required services. Please add all the required services by calling 'IServiceCollection.AddAuthorization' in the application startup code.
+   at Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.VerifyServicesRegistered(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(IApplicationBuilder app)
+   at Jepun.PDF.WebApi.Program.Main(String[] args) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 91
+2024-11-13 15:45:16.0914|INFO|init main 
+2024-11-13 16:15:04.2234|INFO|init main 
+2024-11-13 17:18:02.9081|INFO|init main 
+2024-11-13 17:19:31.6604|INFO|init main 

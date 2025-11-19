@@ -1,0 +1,16 @@
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-11-13 15:40:01.7339|DEBUG|Connection id "0HN83MPEADAU1" is closed. The last processed stream ID was 0. 
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2024-11-13 15:40:01.7339|DEBUG|The connection queue processing loop for 0HN83MPEADAU1 completed. 
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2024-11-13 15:40:01.7339|TRACE|Connection id "0HN83MPEADAU2" received HEADERS frame for stream ID 1 with length 729 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-11-13 15:40:01.7507|TRACE|Connection id "0HN83MPEADAU2" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2024-11-13 15:40:01.8908|TRACE|Connection id "0HN83MPEADAU2" sending HEADERS frame for stream ID 1 with length 68 and flags END_HEADERS. 
+2024-11-13 15:40:01.8908|TRACE|Connection id "0HN83MPEADAU2" sending DATA frame for stream ID 1 with length 12 and flags NONE. 
+2024-11-13 15:40:01.8908|TRACE|Connection id "0HN83MPEADAU2" sending DATA frame for stream ID 1 with length 0 and flags END_STREAM. 
+2024-11-13 15:40:01.9949|TRACE|Connection id "0HN83MPEADAU2" received HEADERS frame for stream ID 3 with length 132 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2024-11-13 15:40:02.0102|TRACE|Connection id "0HN83MPEADAU2" sending HEADERS frame for stream ID 3 with length 7 and flags END_STREAM, END_HEADERS. 
+2024-11-13 15:42:30.8209|DEBUG|Connection id "0HN83MPEADAU3" is closed. The last processed stream ID was 0. 
+2024-11-13 15:42:30.8209|DEBUG|The connection queue processing loop for 0HN83MPEADAU3 completed. 

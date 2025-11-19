@@ -1,0 +1,18 @@
+2024-11-13 15:39:53.1061|DEBUG|Connection id "0HN83MPEADATR" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:39:54.1981|DEBUG|Connection id "0HN83MPEADATS" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:39:54.2780|DEBUG|Connection id "0HN83MPEADATT" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:39:54.6344|DEBUG|Connection id "0HN83MPEADATU" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:39:59.7330|DEBUG|Connection id "0HN83MPEADATV" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:40:00.0183|DEBUG|Connection id "0HN83MPEADAU0" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:40:01.6183|DEBUG|Connection id "0HN83MPEADAU1" reset. 
+2024-11-13 15:40:01.7339|DEBUG|Connection id "0HN83MPEADAU1" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:42:30.8209|DEBUG|Connection id "0HN83MPEADAU3" received FIN. 
+2024-11-13 15:42:30.8209|DEBUG|Connection id "0HN83MPEADAU3" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:45:27.4439|DEBUG|Connection id "0HN83MSHUT12V" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:46:13.5751|DEBUG|Connection id "0HN83MSHUT130" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 15:47:05.1422|DEBUG|Connection id "0HN83MSHUT131" reset. 
+2024-11-13 15:47:05.1445|DEBUG|Connection id "0HN83MSHUT131" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 17:18:45.0659|DEBUG|Connection id "0HN83OGEHOCD9" reset. 
+2024-11-13 17:18:45.0828|DEBUG|Connection id "0HN83OGEHOCD9" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-13 17:20:12.2735|DEBUG|Connection id "0HN83OHAVQL3P" reset. 
+2024-11-13 17:20:12.2855|DEBUG|Connection id "0HN83OHAVQL3P" sending FIN because: "The Socket transport's send loop completed gracefully." 

@@ -1,0 +1,33 @@
+2025-07-14 15:39:09.2746|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2025-07-14 15:39:09.2746|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-07-14 15:39:09.2746|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-07-14 15:39:09.2746|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-07-14 15:39:40.0855|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/ - - - 
+2025-07-14 15:39:40.3201|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/ - 200 - text/plain;+charset=utf-8 244.3970ms 
+2025-07-14 15:39:40.4771|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/favicon.ico - - - 
+2025-07-14 15:39:40.4771|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/favicon.ico - 404 0 - 11.2362ms 
+2025-07-14 15:39:40.4914|INFO|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://127.0.0.1:5566/favicon.ico, Response status code: 404 
+2025-07-14 15:39:57.1116|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger - - - 
+2025-07-14 15:39:57.1233|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger - 301 0 - 18.8061ms 
+2025-07-14 15:39:57.1354|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/index.html - - - 
+2025-07-14 15:39:57.1821|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/index.html - 200 - text/html;charset=utf-8 51.6626ms 
+2025-07-14 15:39:57.2093|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui.css - - - 
+2025-07-14 15:39:57.2093|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/index.css - - - 
+2025-07-14 15:39:57.2093|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui-bundle.js - - - 
+2025-07-14 15:39:57.2093|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui-standalone-preset.js - - - 
+2025-07-14 15:39:57.2093|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/index.js - - - 
+2025-07-14 15:39:57.2260|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/_framework/aspnetcore-browser-refresh.js - - - 
+2025-07-14 15:39:57.2260|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/_vs/browserLink - - - 
+2025-07-14 15:39:57.2432|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/index.js - 200 - application/javascript;charset=utf-8 41.0036ms 
+2025-07-14 15:39:57.2573|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/index.css - 200 202 text/css 46.2719ms 
+2025-07-14 15:39:57.2573|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript;+charset=utf-8 30.7144ms 
+2025-07-14 15:39:57.2732|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui.css - 200 152035 text/css 72.6649ms 
+2025-07-14 15:39:57.2732|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 72.8263ms 
+2025-07-14 15:39:57.3195|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/swagger-ui-bundle.js - 200 1426001 text/javascript 112.6056ms 
+2025-07-14 15:39:57.3659|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 133.2282ms 
+2025-07-14 15:39:57.4601|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/v1/swagger.json - - - 
+2025-07-14 15:39:57.4855|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/swagger/favicon-32x32.png - - - 
+2025-07-14 15:39:57.4855|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 29.4024ms 
+2025-07-14 15:39:57.4912|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/swagger/favicon-32x32.png - 200 628 image/png 10.6903ms 
+2025-07-14 15:40:38.1166|INFO|Request starting HTTP/2 GET https://127.0.0.1:5566/ - - - 
+2025-07-14 15:40:38.1471|INFO|Request finished HTTP/2 GET https://127.0.0.1:5566/ - 200 - text/plain;+charset=utf-8 29.7823ms 

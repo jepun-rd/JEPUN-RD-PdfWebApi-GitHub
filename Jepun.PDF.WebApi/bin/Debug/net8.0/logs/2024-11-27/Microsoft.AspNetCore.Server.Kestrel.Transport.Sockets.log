@@ -1,0 +1,8 @@
+2024-11-27 15:00:14.8060|DEBUG|Connection id "0HN8EM3SN1675" received FIN. 
+2024-11-27 15:00:14.8060|DEBUG|Connection id "0HN8EM3SN1675" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-27 15:00:24.9598|DEBUG|Connection id "0HN8EM3SN1676" received FIN. 
+2024-11-27 15:00:24.9598|DEBUG|Connection id "0HN8EM3SN1676" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-27 15:04:21.6181|DEBUG|Connection id "0HN8EM61C7IDC" received FIN. 
+2024-11-27 15:04:21.6270|DEBUG|Connection id "0HN8EM61C7IDC" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-11-27 15:04:26.7598|DEBUG|Connection id "0HN8EM61C7IDD" received FIN. 
+2024-11-27 15:04:26.7598|DEBUG|Connection id "0HN8EM61C7IDD" sending FIN because: "The Socket transport's send loop completed gracefully." 

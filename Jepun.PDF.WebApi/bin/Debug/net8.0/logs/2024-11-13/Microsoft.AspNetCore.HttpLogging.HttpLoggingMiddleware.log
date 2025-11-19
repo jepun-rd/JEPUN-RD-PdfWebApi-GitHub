@@ -1,0 +1,103 @@
+2024-11-13 15:40:01.8557|INFO|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted] 
+2024-11-13 15:40:01.8557|DEBUG|No Content-Type header for request body. 
+2024-11-13 15:40:01.9949|INFO|Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted] 
+2024-11-13 15:40:01.9949|DEBUG|No Content-Type header for request body. 
+2024-11-13 15:46:43.2073|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /AddStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="1fb05674-05fd-4787-9d75-77a9468887e0"
+Content-Length: 265580 
+2024-11-13 15:46:43.2287|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-13 16:15:16.8946|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /AddStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="c8edff5c-ec78-45bb-b06e-52af18f696ec"
+Content-Length: 265580 
+2024-11-13 16:15:16.9106|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-13 17:18:19.4939|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /AddStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="510de754-8b0c-43ff-a6c3-94aa472899b3"
+Content-Length: 265580 
+2024-11-13 17:18:19.5092|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-13 17:19:09.4246|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /addStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="d492b61d-23b5-497e-be41-d59aa263fce4"
+Content-Length: 265580 
+2024-11-13 17:19:09.4246|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-13 17:19:54.9126|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /addStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="6179726a-c7fd-4af7-a933-f170684c5b77"
+Content-Length: 265580 
+2024-11-13 17:19:54.9314|DEBUG|Unrecognized Content-Type for request body. 
+2024-11-13 17:20:47.4412|INFO|Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /addStamper
+Host: localhost:5566
+Content-Type: multipart/form-data; boundary="5b2d502c-8bc0-4211-beb0-6b835bebc7df"
+Content-Length: 265594 
+2024-11-13 17:20:47.4412|DEBUG|Unrecognized Content-Type for request body. 

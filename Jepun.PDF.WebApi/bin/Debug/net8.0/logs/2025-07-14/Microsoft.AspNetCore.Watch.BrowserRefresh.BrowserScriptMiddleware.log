@@ -1,0 +1,3 @@
+2025-07-14 15:39:08.9203|DEBUG|Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16517 B). 
+2025-07-14 15:39:08.9203|DEBUG|Middleware loaded. Script /_framework/blazor-hotreload.js (799 B). 
+2025-07-14 15:39:57.2573|DEBUG|Script injected: /_framework/aspnetcore-browser-refresh.js 

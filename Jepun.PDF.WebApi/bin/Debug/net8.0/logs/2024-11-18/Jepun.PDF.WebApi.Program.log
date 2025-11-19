@@ -1,0 +1,63 @@
+2024-11-18 09:55:14.1530|INFO|init main 
+2024-11-18 09:56:31.5634|INFO|init main 
+2024-11-18 09:57:34.9434|INFO|init main 
+2024-11-18 09:58:16.7011|INFO|init main 
+2024-11-18 09:59:09.9372|INFO|init main 
+2024-11-18 10:01:07.3701|INFO|init main 
+2024-11-18 10:17:02.6888|ERROR|The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895. 
+ *****Error***** 
+ System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at Jepun.PDF.WebApi.Common.ServiceHelper.JsonToObj[T](String jsonString) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Common\ServiceHelper.cs:line 12
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_0.<<Main>b__15>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 244
+2024-11-18 10:17:33.3677|ERROR|The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895. 
+ *****Error***** 
+ System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at Jepun.PDF.WebApi.Common.ServiceHelper.JsonToObj[T](String jsonString) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Common\ServiceHelper.cs:line 12
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_0.<<Main>b__15>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 244
+2024-11-18 10:19:29.5728|ERROR|The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895. 
+ *****Error***** 
+ System.Text.Json.JsonException: The JSON value could not be converted to System.Collections.Generic.List`1[Jepun.Core.Pdf.Model.PdfImg]. Path: $[0] | LineNumber: 0 | BytePositionInLine: 122895.
+   at System.Text.Json.ThrowHelper.ThrowJsonException_DeserializeUnableToConvertValue(Type propertyType)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonCollectionConverter`2.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, TCollection& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at Jepun.PDF.WebApi.Common.ServiceHelper.JsonToObj[T](String jsonString) in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Common\ServiceHelper.cs:line 12
+   at Jepun.PDF.WebApi.Program.<>c__DisplayClass0_0.<<Main>b__15>d.MoveNext() in D:\RD2\Jepun.Framework\MyNet8.0\Jepun.Core\WebApi\Jepun.PDF.WebApi\Program.cs:line 244
+2024-11-18 10:27:48.9062|INFO|init main 
+2024-11-18 10:37:49.0010|INFO|init main 
+2024-11-18 11:01:46.7744|INFO|init main 
+2024-11-18 14:50:25.1261|INFO|init main 
+2024-11-18 15:02:52.1764|INFO|init main 
+2024-11-18 15:09:35.8457|INFO|init main 
+2024-11-18 15:16:46.2619|INFO|init main 
+2024-11-18 15:33:46.8422|INFO|init main 
+2024-11-18 15:35:40.3738|INFO|init main 
+2024-11-18 15:53:01.3602|INFO|init main 
+2024-11-18 16:01:43.7039|INFO|init main 
+2024-11-18 16:07:57.1482|INFO|init main 
+2024-11-18 16:10:08.2075|INFO|init main 
+2024-11-18 16:14:34.1204|INFO|init main 
+2024-11-18 17:30:51.5731|INFO|init main 

@@ -1,0 +1,9 @@
+2024-11-27 14:59:01.9486|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-27 14:59:01.9486|TRACE|All hosts are allowed. 
+2024-11-27 14:59:09.5514|TRACE|All hosts are allowed. 
+2024-11-27 14:59:11.9797|TRACE|All hosts are allowed. 
+2024-11-27 15:01:00.2349|TRACE|All hosts are allowed. 
+2024-11-27 15:02:52.3351|DEBUG|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-27 15:02:52.3351|TRACE|All hosts are allowed. 
+2024-11-27 15:03:06.5720|TRACE|All hosts are allowed. 
+2024-11-27 15:03:13.7395|TRACE|All hosts are allowed. 

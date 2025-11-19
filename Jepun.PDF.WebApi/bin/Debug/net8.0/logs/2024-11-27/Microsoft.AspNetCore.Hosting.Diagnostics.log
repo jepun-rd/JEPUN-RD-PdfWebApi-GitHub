@@ -1,0 +1,25 @@
+2024-11-27 14:51:13.2440|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-27 14:51:13.2440|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-27 14:51:13.2440|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-27 14:51:13.2440|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-27 14:58:12.6988|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-27 14:58:12.6988|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-27 14:58:12.6988|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-27 14:58:12.6988|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-27 14:59:01.9486|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="d4ac8b45-70dc-4ca9-8ceb-3c2af1ac8233" 168940 
+2024-11-27 14:59:02.2210|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 0 - 280.9664ms 
+2024-11-27 14:59:09.5514|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="551b668c-6709-4db3-abe2-41b069f09781" 8048 
+2024-11-27 14:59:09.6041|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 0 - 57.6439ms 
+2024-11-27 14:59:11.9797|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="a42f1a9d-b5ec-47bc-bb32-4e62c06cab11" 175 
+2024-11-27 14:59:12.0402|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 65.5520ms 
+2024-11-27 15:01:00.2349|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="d84a1e0b-0884-4e71-b9e9-cbe524f02da1" 168940 
+2024-11-27 15:02:40.2779|DEBUG|Loaded hosting startup assembly Jepun.PDF.WebApi 
+2024-11-27 15:02:40.2779|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-27 15:02:40.2779|DEBUG|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-27 15:02:40.2779|DEBUG|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-27 15:02:52.3351|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="b810eb16-f9e7-4a25-b105-184a9e7c53ae" 168940 
+2024-11-27 15:03:03.5339|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 11209.0616ms 
+2024-11-27 15:03:06.5720|INFO|Request starting HTTP/1.1 POST https://localhost:5566/signPdf - multipart/form-data;+boundary="8d29622a-e7c5-4c6a-b831-e0a419902c53" 195688 
+2024-11-27 15:03:11.6974|INFO|Request finished HTTP/1.1 POST https://localhost:5566/signPdf - 200 - application/octet-stream 5127.7867ms 
+2024-11-27 15:03:13.7395|INFO|Request starting HTTP/1.1 POST https://localhost:5566/verifySignatures - multipart/form-data;+boundary="83302cee-90d3-4f25-a254-2da87127c4dd" 216853 
+2024-11-27 15:03:13.8041|INFO|Request finished HTTP/1.1 POST https://localhost:5566/verifySignatures - 200 - application/json;+charset=utf-8 60.6993ms 

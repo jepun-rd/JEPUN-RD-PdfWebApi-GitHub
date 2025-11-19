@@ -1,0 +1,78 @@
+2024-11-14 13:46:55.6604|DEBUG|Request matched endpoint 'HTTP: POST /isProtected' 
+2024-11-14 13:46:55.6604|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 13:48:25.0583|DEBUG|Request matched endpoint 'HTTP: POST /isProtected' 
+2024-11-14 13:48:25.0583|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:06:44.2095|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:06:44.2149|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:06:56.3076|DEBUG|Request matched endpoint 'HTTP: POST /isProtected' 
+2024-11-14 16:06:56.3076|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:16:25.8137|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:16:25.8137|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:16:26.0142|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:16:26.0142|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:16:58.8676|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:16:58.8676|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:16:59.0242|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:16:59.0242|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:18:42.3833|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:18:42.3833|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:18:42.6572|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:18:42.6572|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:19:42.9340|DEBUG|Request matched endpoint 'HTTP: POST /addStamper' 
+2024-11-14 16:19:42.9340|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:20:05.3828|DEBUG|Request matched endpoint 'HTTP: POST /encryptPDF' 
+2024-11-14 16:20:05.3828|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:31:38.8891|DEBUG|Request matched endpoint 'HTTP: POST /addFiles' 
+2024-11-14 16:31:38.8891|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:35:22.9886|DEBUG|Request matched endpoint 'HTTP: POST /addFiles' 
+2024-11-14 16:35:22.9886|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:37:31.0529|DEBUG|Request matched endpoint 'HTTP: POST /addFiles' 
+2024-11-14 16:37:31.0529|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:38:25.9349|DEBUG|Request matched endpoint 'HTTP: POST /addFiles' 
+2024-11-14 16:38:25.9349|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:46:46.7886|DEBUG|Request matched endpoint 'HTTP: POST /removeFiles' 
+2024-11-14 16:46:46.7886|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 16:51:49.0939|DEBUG|Request matched endpoint 'HTTP: POST /getPages' 
+2024-11-14 16:51:49.0997|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:03:14.0236|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:03:14.0236|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:03:53.2430|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:03:53.2430|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:07:40.0361|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:07:40.0424|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:08:15.8701|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:08:15.8701|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:10:12.6920|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:10:12.6920|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:11:37.2773|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:11:37.2773|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:34:11.9203|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:34:11.9252|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 17:37:15.3381|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 17:37:15.3433|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:04:18.0320|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:04:18.0320|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:05:40.8151|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:05:40.8151|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:07:17.1972|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:07:17.1972|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:09:33.8918|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:09:33.8918|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:11:38.3759|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:11:38.3759|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:15:58.5622|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:15:58.5622|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:16:27.5763|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:16:27.5763|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:20:20.1014|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:20:20.1063|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:22:42.9617|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:22:42.9661|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:23:27.4664|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:23:27.4664|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:27:09.1066|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:27:09.1066|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:29:47.4386|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:29:47.4386|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-11-14 18:34:38.3289|DEBUG|Request matched endpoint 'HTTP: POST /searchText' 
+2024-11-14 18:34:38.3289|TRACE|The endpoint does not specify the IRequestSizeLimitMetadata. 

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\JEPUN-RD-PdfWebApi-GitHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\pdfstamperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\pdfstamperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\pdftext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\pdftext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\matchedtextinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\matchedtextinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\fulltextextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\fulltextextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\customtexteventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\customtexteventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\chunktextextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\chunktextextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\model\\pdfattachfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\model\\pdfattachfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.core.pdf\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C868339-9032-8925-E8D0-1ABB71273F54}|Jepun.Core.Pdf\\Jepun.Core.Pdf.csproj|solutionrelative:jepun.core.pdf\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}|Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj|f:\\jepun-rd-pdfwebapi-github\\jepun.pdf.webapi\\jepun.pdf.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C22B6757-997C-7702-5AA8-CCDCDBE20CC5}|Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj|solutionrelative:jepun.pdf.webapi\\jepun.pdf.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfStamperData.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfStamperData.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\PdfStamperData.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfStamperData.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\PdfStamperData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchedTextInfo.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\MatchedTextInfo.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\MatchedTextInfo.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\MatchedTextInfo.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\MatchedTextInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullTextExtractionStrategy.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\FullTextExtractionStrategy.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\FullTextExtractionStrategy.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\FullTextExtractionStrategy.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\FullTextExtractionStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomTextEventListener.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\CustomTextEventListener.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\CustomTextEventListener.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\CustomTextEventListener.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\CustomTextEventListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:26.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfAttachFile.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfAttachFile.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\PdfAttachFile.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfAttachFile.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\PdfAttachFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfText.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfText.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\PdfText.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\PdfText.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\PdfText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:44:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfHelper.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\PdfHelper.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\PdfHelper.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\PdfHelper.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\PdfHelper.cs",
+              "ViewState": "AgIAAKUCAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:43:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChunkTextExtractionStrategy.cs",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\ChunkTextExtractionStrategy.cs",
+              "RelativeDocumentMoniker": "Jepun.Core.Pdf\\Model\\ChunkTextExtractionStrategy.cs",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.Core.Pdf\\Model\\ChunkTextExtractionStrategy.cs",
+              "RelativeToolTip": "Jepun.Core.Pdf\\Model\\ChunkTextExtractionStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:43:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jepun.PDF.WebApi.csproj",
+              "DocumentMoniker": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "RelativeDocumentMoniker": "Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "ToolTip": "F:\\JEPUN-RD-PdfWebApi-GitHub\\Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "RelativeToolTip": "Jepun.PDF.WebApi\\Jepun.PDF.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T03:10:00.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

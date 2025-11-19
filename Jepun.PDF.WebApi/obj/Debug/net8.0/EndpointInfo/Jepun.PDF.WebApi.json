@@ -1,0 +1,997 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Jepun.Line.WebApi",
+    "description": "A .NET 8.0  PDF Web API",
+    "contact": {
+      "name": "PDF",
+      "email": ""
+    },
+    "license": {
+      "name": "Use under MIT"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/isProtected": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/encryptPDF": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "owrPwd",
+                  "pmss",
+                  "strength",
+                  "userPwd"
+                ],
+                "type": "object",
+                "properties": {
+                  "userPwd": {
+                    "type": "string"
+                  },
+                  "strength": {
+                    "type": "string"
+                  },
+                  "owrPwd": {
+                    "type": "string"
+                  },
+                  "pmss": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "userPwd": {
+                  "style": "form"
+                },
+                "strength": {
+                  "style": "form"
+                },
+                "owrPwd": {
+                  "style": "form"
+                },
+                "pmss": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "owrPwd",
+                  "pmss",
+                  "strength",
+                  "userPwd"
+                ],
+                "type": "object",
+                "properties": {
+                  "userPwd": {
+                    "type": "string"
+                  },
+                  "strength": {
+                    "type": "string"
+                  },
+                  "owrPwd": {
+                    "type": "string"
+                  },
+                  "pmss": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "userPwd": {
+                  "style": "form"
+                },
+                "strength": {
+                  "style": "form"
+                },
+                "owrPwd": {
+                  "style": "form"
+                },
+                "pmss": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/addStamper": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "jsonPdfStamperData"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonPdfStamperData": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonPdfStamperData": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "jsonPdfStamperData"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonPdfStamperData": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonPdfStamperData": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/addFiles": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "jsonPdfAttachFile"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonPdfAttachFile": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonPdfAttachFile": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "jsonPdfAttachFile"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonPdfAttachFile": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonPdfAttachFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/getPages": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/searchText": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "searchText"
+                ],
+                "type": "object",
+                "properties": {
+                  "searchText": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "searchText": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "searchText"
+                ],
+                "type": "object",
+                "properties": {
+                  "searchText": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "searchText": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PdfTextPosition"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/searchTextChunk": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "searchText"
+                ],
+                "type": "object",
+                "properties": {
+                  "searchText": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "searchText": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "searchText"
+                ],
+                "type": "object",
+                "properties": {
+                  "searchText": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "searchText": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PdfTextPositionChunk"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/searchMultiTextAddImgToPdf": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "jsonPdfImgs",
+                  "jsonSearchTexts"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonSearchTexts": {
+                    "type": "string"
+                  },
+                  "jsonPdfImgs": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonSearchTexts": {
+                  "style": "form"
+                },
+                "jsonPdfImgs": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "jsonPdfImgs",
+                  "jsonSearchTexts"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonSearchTexts": {
+                    "type": "string"
+                  },
+                  "jsonPdfImgs": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonSearchTexts": {
+                  "style": "form"
+                },
+                "jsonPdfImgs": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ByteArrayInt32StringTuple"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/searchMultiTextChunkAddImgToPdf": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "jsonPdfImgs",
+                  "jsonSearchTexts",
+                  "jsonStartXs"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonSearchTexts": {
+                    "type": "string"
+                  },
+                  "jsonStartXs": {
+                    "type": "string"
+                  },
+                  "jsonPdfImgs": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonSearchTexts": {
+                  "style": "form"
+                },
+                "jsonStartXs": {
+                  "style": "form"
+                },
+                "jsonPdfImgs": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "jsonPdfImgs",
+                  "jsonSearchTexts",
+                  "jsonStartXs"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonSearchTexts": {
+                    "type": "string"
+                  },
+                  "jsonStartXs": {
+                    "type": "string"
+                  },
+                  "jsonPdfImgs": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonSearchTexts": {
+                  "style": "form"
+                },
+                "jsonStartXs": {
+                  "style": "form"
+                },
+                "jsonPdfImgs": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ByteArrayInt32Tuple"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getText": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getTextLine": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getTextChunk": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getTextFullList": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PdfTextPosition"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getTextChunkList": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PdfTextPositionChunk"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/verifySignatures": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "boolean"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/signPdf": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "height",
+                  "location",
+                  "page",
+                  "reason",
+                  "signatureFieldName",
+                  "width",
+                  "x",
+                  "y"
+                ],
+                "type": "object",
+                "properties": {
+                  "signatureFieldName": {
+                    "type": "string"
+                  },
+                  "reason": {
+                    "type": "string"
+                  },
+                  "location": {
+                    "type": "string"
+                  },
+                  "x": {
+                    "type": "string"
+                  },
+                  "y": {
+                    "type": "string"
+                  },
+                  "width": {
+                    "type": "string"
+                  },
+                  "height": {
+                    "type": "string"
+                  },
+                  "page": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "signatureFieldName": {
+                  "style": "form"
+                },
+                "reason": {
+                  "style": "form"
+                },
+                "location": {
+                  "style": "form"
+                },
+                "x": {
+                  "style": "form"
+                },
+                "y": {
+                  "style": "form"
+                },
+                "width": {
+                  "style": "form"
+                },
+                "height": {
+                  "style": "form"
+                },
+                "page": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "height",
+                  "location",
+                  "page",
+                  "reason",
+                  "signatureFieldName",
+                  "width",
+                  "x",
+                  "y"
+                ],
+                "type": "object",
+                "properties": {
+                  "signatureFieldName": {
+                    "type": "string"
+                  },
+                  "reason": {
+                    "type": "string"
+                  },
+                  "location": {
+                    "type": "string"
+                  },
+                  "x": {
+                    "type": "string"
+                  },
+                  "y": {
+                    "type": "string"
+                  },
+                  "width": {
+                    "type": "string"
+                  },
+                  "height": {
+                    "type": "string"
+                  },
+                  "page": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "signatureFieldName": {
+                  "style": "form"
+                },
+                "reason": {
+                  "style": "form"
+                },
+                "location": {
+                  "style": "form"
+                },
+                "x": {
+                  "style": "form"
+                },
+                "y": {
+                  "style": "form"
+                },
+                "width": {
+                  "style": "form"
+                },
+                "height": {
+                  "style": "form"
+                },
+                "page": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/addCustomProperty": {
+      "post": {
+        "tags": [
+          "Jepun.PDF.WebApi"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "jsonCustomProps"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonCustomProps": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonCustomProps": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "jsonCustomProps"
+                ],
+                "type": "object",
+                "properties": {
+                  "jsonCustomProps": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "jsonCustomProps": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ByteArrayInt32StringTuple": {
+        "type": "object",
+        "properties": {
+          "item1": {
+            "type": "string",
+            "format": "byte",
+            "nullable": true
+          },
+          "item2": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "item3": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ByteArrayInt32Tuple": {
+        "type": "object",
+        "properties": {
+          "item1": {
+            "type": "string",
+            "format": "byte",
+            "nullable": true
+          },
+          "item2": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PdfTextPosition": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string",
+            "nullable": true
+          },
+          "startX": {
+            "type": "number",
+            "format": "float"
+          },
+          "startY": {
+            "type": "number",
+            "format": "float"
+          },
+          "endX": {
+            "type": "number",
+            "format": "float"
+          },
+          "endY": {
+            "type": "number",
+            "format": "float"
+          },
+          "page": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PdfTextPositionChunk": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string",
+            "nullable": true
+          },
+          "startX": {
+            "type": "number",
+            "format": "float"
+          },
+          "startY": {
+            "type": "number",
+            "format": "float"
+          },
+          "endX": {
+            "type": "number",
+            "format": "float"
+          },
+          "endY": {
+            "type": "number",
+            "format": "float"
+          },
+          "page": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "charSpaceWidth": {
+            "type": "number",
+            "format": "float"
+          },
+          "searchText": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
